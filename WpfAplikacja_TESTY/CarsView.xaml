@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="WpfAplikacja_TESTY.CarsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfAplikacja_TESTY"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid >
+        <DataGrid x:Name="Cars" HorizontalAlignment="Left" Height="auto" Margin="20,16,0,0" VerticalAlignment="Top" Width="494" AutoGenerateColumns="False"  
+        HorizontalContentAlignment="Stretch" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" ItemsSource="{Binding viewcars}"  SelectedItem="{Binding selectedcar}">
+
+
+            <DataGrid.InputBindings>
+                <MouseBinding
+                    MouseAction="LeftDoubleClick"
+                    Command="{Binding DoubleClick}" />
+            </DataGrid.InputBindings>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="auto"/>
+                <DataGridTextColumn Header="Typ silnika" Binding="{Binding EngineType}" Width="auto" />
+                <DataGridTextColumn Header="Data kolejnego przeglądu" Binding="{Binding NextService}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Label x:Name="addnewcar_label" Content="Dodaj nowy pojazd" HorizontalAlignment="Left" Margin="20,242,0,0" VerticalAlignment="Top" FontSize="25" />
+        <Label x:Name="carname" Content="Nadaj nazwe" HorizontalAlignment="Left" Margin="20,308,0,0" VerticalAlignment="Top" Width="84"/>
+        <Label x:Name="carnextserivce" Content="Podaj date &#xD;&#xA;następnego serwisu" HorizontalAlignment="Left" Margin="20,326,0,0" VerticalAlignment="Top" Width="140" Height="49"/>
+        <Border BorderBrush="Gray" BorderThickness="2" HorizontalAlignment="Left" Height="187" Margin="20,230,0,0" VerticalAlignment="Top" Width="494"/>
+        <TextBox x:Name="carname_textbox" HorizontalAlignment="Left" Height="23" Margin="144,317,0,0" TextWrapping="Wrap" Text="{Binding CarName}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="carnextservice" HorizontalAlignment="Left" Height="23" Margin="144,345,0,0" TextWrapping="Wrap" Text="{Binding NextCarService}" VerticalAlignment="Top" Width="120" />
+        <Calendar x:Name="calendar" HorizontalAlignment="Left" Margin="305,242,0,0" VerticalAlignment="Top" SelectedDate="{Binding NextCarService}" SelectionMode="SingleDate" Height="164" Width="178"/>
+        <Label x:Name="enginetypelabel" Content="Wybierz typ silnika" HorizontalAlignment="Left" Margin="20,375,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="enginetypescomboBox" HorizontalAlignment="Left" Margin="144,375,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding enginetypes}" SelectedItem="{Binding SelectedEngineType}"/>
+        <Button x:Name="addcar" Command="{Binding AddCar}" Content="Dodaj" HorizontalAlignment="Left" Margin="236,423,0,0" VerticalAlignment="Top" Width="75" IsEnabled="{Binding AreButtonsActivated}"/>
+        <Button x:Name="viewdetails" Command="{Binding DeleteCar}" Content="Usun" HorizontalAlignment="Left" Margin="132,423,0,0" VerticalAlignment="Top" Width="75" IsEnabled="{Binding AreButtonsActivated}"/>
+        <Button x:Name="editcar" Command="{Binding EditCar}" Content="Edytuj" HorizontalAlignment="Left" Margin="29,423,0,0" VerticalAlignment="Top" Width="75" IsEnabled="{Binding AreButtonsActivated}"/>
+
+
+        <Popup  IsOpen="{Binding popupopen}"
+               Name="EditPopup"
+               Margin="0,0,0,0"
+               HorizontalOffset="-100"
+               VerticalOffset="-100"
+               AllowsTransparency="True"
+                Placement="MousePoint">
+
+
+            <Grid Background="Gray" Width="364">
+
+                <Border BorderBrush="Green" BorderThickness="3" Margin="0,0,0,0" Height="174" VerticalAlignment="Top"/>
+                <Label x:Name="editname_label" Content="Nowa nazwa:" HorizontalAlignment="Left" Margin="10,22,0,0" VerticalAlignment="Top" Width="91"/>
+                <Label x:Name="editdate_label" Content="Następny&#xD;&#xA;serwis:" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Width="115" Height="46"/>
+                <Label x:Name="editenginetype_label" Content="Typ silnika" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Width="115" Height="46"/>
+                <TextBox x:Name="editname" HorizontalAlignment="Left" Height="23" Margin="101,25,0,0" TextWrapping="Wrap" Text="{Binding CarName}" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="editdate" HorizontalAlignment="Left" Height="23" Margin="101,53,0,0" TextWrapping="Wrap" Text="{Binding NextCarService}" VerticalAlignment="Top" Width="120"/>
+
+                <Button x:Name="cancel" Command="{Binding CancelPopup}" Content="Anuluj" HorizontalAlignment="Left" Margin="50,130,0,0" VerticalAlignment="Top" Width="75"/>
+                <Button x:Name="confirm" Command="{Binding ConfirmPopup}" Content="Zapisz" HorizontalAlignment="Left" Margin="165,130,0,0" VerticalAlignment="Top" Width="75"/>
+                <ComboBox x:Name="enginetypecomboBox" HorizontalAlignment="Left" Margin="101,81,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding enginetypes}" SelectedItem="{Binding SelectedEngineType}"/>
+            </Grid>
+
+
+
+        </Popup>
+
+
+
+
+
+
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,92 @@
+﻿<Window x:Class="WpfAplikacja_TESTY.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAplikacja_TESTY"
+        xmlns:mainvm="clr-namespace:FuelApplication.MainViewModel;assembly=FuelApplication"
+        xmlns:vmclasses="clr-namespace:FuelApplication.ViewModelClasses;assembly=FuelApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type mainvm:CarsViewModel}">
+            <local:CarsView>
+                <local:CarsView.Background>
+                    <ImageBrush ImageSource="/Images/page_background.png"/>
+                </local:CarsView.Background>
+            </local:CarsView>
+
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vmclasses:RefuelingViewModel}">
+            <local:RefuelingView>
+                <local:RefuelingView.Background>
+                    <ImageBrush ImageSource="/Images/page_background.png"/>
+                </local:RefuelingView.Background>
+            </local:RefuelingView>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vmclasses:StaticticsViewModel}">
+            <local:StatisticsView>
+                <local:StatisticsView.Background>
+                    <ImageBrush ImageSource="/Images/page_background.png"/>
+                </local:StatisticsView.Background>
+            </local:StatisticsView>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vmclasses:FirstRunViewModel}">
+            <local:FirstRun>
+                <local:FirstRun.Background>
+                    <ImageBrush ImageSource="/Images/page_background.png"/>
+                </local:FirstRun.Background>
+            </local:FirstRun>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vmclasses:DiagramsViewModel}">
+            <local:DiagramsView>
+                <local:DiagramsView.Background>
+                    <ImageBrush ImageSource="/Images/page_background.png"/>
+                </local:DiagramsView.Background>
+            </local:DiagramsView>
+        </DataTemplate>
+
+    </Window.Resources>
+
+
+    <DockPanel Margin="0,0,2,0">
+
+
+        <Image x:Name="top" Height="109"  DockPanel.Dock="Top" Stretch="UniformToFill">
+            <Image.Source>
+                <BitmapImage UriSource="/Images/top.png"/>
+            </Image.Source>
+        </Image>
+
+        <Border DockPanel.Dock="Left" BorderBrush="Black" BorderThickness="0,0,0,0">
+            <ItemsControl ItemsSource="{Binding ViewModelsList}">
+                <ItemsControl.Background>
+                    <ImageBrush ImageSource="/Images/menu.png"/>
+                </ItemsControl.Background>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Button Content="{Binding Name}"
+                                Command="{Binding DataContext.ChangeViewModelCommand, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+                                CommandParameter="{Binding }"
+                                Style="{DynamicResource ButtonStyle1}"
+                                Margin="22,0,0,0"
+                                >
+                        </Button>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Border>
+
+        <ContentControl Content="{Binding CurrentViewModel}" DockPanel.Dock="Right" />
+
+
+
+
+    </DockPanel>
+
+
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\obj\Debug\Fuel.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\obj\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\obj\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DataModel\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DataModel\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DataModel\obj\Debug\Fuel.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DataModel\obj\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DataModel\obj\Debug\Fuel.DataModel.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DataModel\bin\Debug\Fuel.DataModel.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DataModel\bin\Debug\Fuel.DataModel.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DataModel\obj\Debug\Fuel.DataModel.csprojResolveAssemblyReference.cache
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DataModel\obj\Debug\Fuel.DataModel.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DataModel\obj\Debug\Fuel.DataModel.pdb

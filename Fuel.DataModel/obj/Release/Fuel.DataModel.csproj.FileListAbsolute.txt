@@ -1,0 +1,5 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\bin\Release\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\bin\Release\Fuel.DataModel.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\obj\Release\Fuel.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\obj\Release\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DataModel\obj\Release\Fuel.DataModel.pdb

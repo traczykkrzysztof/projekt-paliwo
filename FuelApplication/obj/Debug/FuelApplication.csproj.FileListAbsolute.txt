@@ -1,0 +1,45 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\FuelApplication.exe.config
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\obj\Debug\FuelApplication.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\FuelApplication.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\FuelApplication.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\EntityFramework.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\EntityFramework.xml
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\obj\Debug\FuelApplication.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\obj\Debug\FuelApplication.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\FuelApplication.exe.config
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\FuelApplication.exe
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\FuelApplication.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.exe
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\FuelApplication.exe.config
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\FuelApplication.exe
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\FuelApplication.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.SqlServer.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DAL.EF6.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DataModel.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DAL.EF6.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\Fuel.DataModel.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.xml
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\bin\Debug\EntityFramework.SqlServer.xml
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.csprojResolveAssemblyReference.cache
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.exe
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.pdb
+C:\Users\Karol\Desktop\apla\aaa\Aplikacja_test\FuelApplication\bin\Debug\FuelApplication.exe.config
+C:\Users\Karol\Desktop\apla\aaa\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.exe
+C:\Users\Karol\Desktop\apla\aaa\Aplikacja_test\FuelApplication\obj\Debug\FuelApplication.pdb

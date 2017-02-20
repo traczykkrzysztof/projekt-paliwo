@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="WpfAplikacja_TESTY.StatisticsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfAplikacja_TESTY"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/page_background.png" />
+        </Grid.Background>
+        <Canvas HorizontalAlignment="Left" Height="392" Margin="10,10,0,0" VerticalAlignment="Top" Width="568">
+            <Label x:Name="statystyki_title" Content="Statystyki" HorizontalAlignment="Left" VerticalAlignment="Top" Width="158" FontSize="30" Height="53" Canvas.Left="55" Canvas.Top="56"/>
+            <Label x:Name="highestconsumptionlabel" Content="Najwyższe odnotowane spalanie: " HorizontalAlignment="Left" VerticalAlignment="Top" Height="27" Canvas.Left="50" Canvas.Top="145"/>
+            <Label x:Name="lowestconsumptionlabel" Content="Najniższe odnotowane spalanie: " HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Canvas.Left="50" Canvas.Top="172"/>
+            <Label x:Name="carwithlowestconsumptionlabel" Content="Najbardziej oszczędny jest pojazd" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Canvas.Left="50" Canvas.Top="200"/>
+            <Label x:Name="carwithhighestconsumptionlabel" Content="Najmniej oszczędny jest pojazd" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Canvas.Left="50" Canvas.Top="226"/>
+            <Label x:Name="highestconsumption_value" Content="{Binding HighestConsumption}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="76" Height="28" Canvas.Left="247" Canvas.Top="139"/>
+            <Label x:Name="lowestconsumption_value" Content="{Binding LowestConsumption}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="79" Height="23" Canvas.Left="247" Canvas.Top="172"/>
+            <Label x:Name="carwithlowestconsumption_value" Content="{Binding CarNameWithLowestConsumption}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Height="28" Canvas.Left="249" Canvas.Top="195"/>
+            <Label x:Name="carwithhighestconsumption_value" Content="{Binding CarNameWithHighestConsumption}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Height="26" Canvas.Left="249" Canvas.Top="228"/>
+            <Label x:Name="numberofentrieslabel" Content="Liczba wpisów tankowania:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Canvas.Left="50" Canvas.Top="254"/>
+            <Label x:Name="numberofcarslabel" Content="Liczba zapisanych samochodów:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Canvas.Left="50" Canvas.Top="282"/>
+            <Label x:Name="numberofentriesvalue" Content="{Binding EntriesCount}" HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Canvas.Left="249" Canvas.Top="254" Width="76"/>
+            <Label x:Name="numberofcarsvalue" Content="{Binding CarsCount}" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Canvas.Left="249" Canvas.Top="282" Width="76"/>
+            <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" VerticalAlignment="Top" Height="219" Width="494" ItemsSource="{Binding CarsWithConsumption}" Canvas.Left="50" Canvas.Top="315" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" Style="{DynamicResource DataGridStyle}">
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Pojazd" Binding="{Binding groupname}"/>
+                    <DataGridTextColumn Header="Srednie zuzycie paliwa (l/100km)" Binding="{Binding averageconsumption}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Canvas>
+
+    </Grid>
+</UserControl>

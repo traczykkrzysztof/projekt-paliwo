@@ -1,0 +1,65 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.dll.config
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\EntityFramework.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\EntityFramework.xml
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.CarsOnly.resources
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithRefueling.resources
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.NextServiceAdded.resources
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.NextServiceCheck.resources
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithFuelconsumption.resources
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.FuelconsumptionUPDATE.resources
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.Consumptiongetset.resources
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.csproj.GenerateResource.Cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.withengineenums.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.dll.config
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.CarsOnly.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithRefueling.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.NextServiceAdded.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.NextServiceCheck.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithFuelconsumption.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.FuelconsumptionUPDATE.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.Consumptiongetset.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.withengineenums.resources
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.csproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithRefuelingDate.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.dll.config
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DAL.EF6.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.SqlServer.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DataModel.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\Fuel.DataModel.pdb
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.xml
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\bin\Debug\EntityFramework.SqlServer.xml
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.csprojResolveAssemblyReference.cache
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.CarsOnly.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithRefueling.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.NextServiceAdded.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.NextServiceCheck.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithFuelconsumption.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.FuelconsumptionUPDATE.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.Consumptiongetset.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.withengineenums.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.Migrations.WithRefuelingDate.resources
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.csproj.GenerateResource.Cache
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.dll
+E:\studia\komponent\NOWA\nowa\Aplikacja_test\Fuel.DAL.EF6\obj\Debug\Fuel.DAL.EF6.pdb

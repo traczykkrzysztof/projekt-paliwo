@@ -1,0 +1,39 @@
+﻿<Application x:Class="WpfAplikacja_TESTY.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfAplikacja_TESTY"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        
+        <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+
+
+        <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <Border Width="142" Height="78">
+                                <Label Content="{Binding Name}" FontSize="15" Margin="15,20,10,10"/>
+                                <Border.Background>
+                                    <ImageBrush ImageSource="/Images/viewbutton.png"/>
+                                </Border.Background>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsFocused" Value="True"/>
+                            <Trigger Property="IsDefaulted" Value="True"/>
+                            <Trigger Property="IsMouseOver" Value="True"/>
+                            <Trigger Property="IsPressed" Value="True"/>
+                            <Trigger Property="IsEnabled" Value="False"/>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="DataGridStyle" TargetType="{x:Type DataGrid}">
+            <Setter Property="Background" Value="Green"/>
+        </Style>
+    </Application.Resources>
+</Application>

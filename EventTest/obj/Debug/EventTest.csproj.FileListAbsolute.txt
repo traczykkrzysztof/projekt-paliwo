@@ -1,0 +1,28 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\EventTest.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\EventTest.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\obj\Debug\EventTest.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\obj\Debug\EventTest.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\EntityFramework.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\EntityFramework.xml
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\EventTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\obj\Debug\EventTest.exe
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\obj\Debug\EventTest.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\EventTest.exe
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\EventTest.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\EntityFramework.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\Fuel.DataModel.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\Fuel.DataModel.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\EntityFramework.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache

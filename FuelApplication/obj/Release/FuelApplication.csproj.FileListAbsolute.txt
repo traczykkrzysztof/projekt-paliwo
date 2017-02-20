@@ -1,0 +1,28 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\FuelApplication.exe.config
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\FuelApplication.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\FuelApplication.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\EntityFramework.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\Fuel.DataModel.dll
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\Fuel.DataModel.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\EntityFramework.xml
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\obj\Release\FuelApplication.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\obj\Release\FuelApplication.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\APLIKACJA-\FuelApplication\obj\Release\FuelApplication.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\FuelApplication.exe.config
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\FuelApplication.exe
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\FuelApplication.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\EntityFramework.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\Fuel.DAL.EF6.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\Fuel.DataModel.dll
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\Fuel.DAL.EF6.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\Fuel.DataModel.pdb
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\EntityFramework.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\obj\Release\FuelApplication.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\obj\Release\FuelApplication.exe
+C:\Users\Edgar\Desktop\05012017\Aplikacja_test\FuelApplication\obj\Release\FuelApplication.pdb

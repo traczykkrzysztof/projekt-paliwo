@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="WpfAplikacja_TESTY.DiagramsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:datavis="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit" 
+             xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+             xmlns:local="clr-namespace:WpfAplikacja_TESTY"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid Margin="-70,0,0,-46">
+
+        <Canvas HorizontalAlignment="Left" Height="440" Margin="68,10,0,0" VerticalAlignment="Top" Width="752">
+
+            <charting:Chart Width="394" HorizontalAlignment="Right" VerticalAlignment="Top" Title="Wykres" Height="371" Canvas.Left="215" Canvas.Top="10" >
+                <charting:Chart.LegendStyle>
+                    <Style TargetType="datavis:Legend">
+                        <Setter Property="Width" Value="0" />
+                    </Style>
+                </charting:Chart.LegendStyle>
+                <charting:Chart.Axes>
+                    <charting:DateTimeAxis Location="Bottom" Orientation="X" FontSize="8" FontStretch="Condensed" ShowGridLines="True" Margin="0,10,0,0" />
+                    <charting:LinearAxis Location="Left" Orientation="Y" Title="Spalanie" ShowGridLines="True" Margin="0,4,3,-4"/>
+                </charting:Chart.Axes>
+                <charting:LineSeries AnimationSequence="FirstToLast" BorderBrush="Red" ItemsSource="{Binding Power}" IndependentValueBinding="{Binding Date}" DependentValueBinding="{Binding Spalanie}" >
+                    <!--<charting:LineSeries.DependentRangeAxis>
+                    <charting:LinearAxis Orientation="Y" Title="Spalanie"
+                                    Minimum="{Binding}" Maximum="{Binding}" Interval="0.5"
+                                    ShowGridLines="True"/>
+                </charting:LineSeries.DependentRangeAxis>-->
+                </charting:LineSeries>
+
+            </charting:Chart>
+
+            <!--<TextBox x:Name="distance" Height="23" Canvas.Left="218" TextWrapping="Wrap" Text="{Binding Today}" Canvas.Top="67" Width="120"/>-->
+            <!--<TextBox x:Name="datepocz_text" Height="23" Canvas.Left="218" TextWrapping="Wrap" Text="{Binding Next}" Canvas.Top="95" Width="120"/>-->
+            <ComboBox x:Name="carsbox1"  ItemsSource="{Binding Combolist}" SelectedItem="{Binding SelCar}" DisplayMemberPath="Name" Canvas.Left="30" Canvas.Top="56" Width="162"/>
+            <!--<Label x:Name="distancelabel1" Content="Dzisiejsza data:" Canvas.Left="10" Canvas.Top="64"/>-->
+            <Label x:Name="literslabel1" Content="Od której daty zacząć?:" Canvas.Left="40" Canvas.Top="90" Width="138"/>
+            <Label x:Name="carlabel1" Content="Wybierz pojazd:" Canvas.Left="61" Canvas.Top="25"/>
+            <Border BorderBrush="Gray" BorderThickness="2" Height="371" Width="200" Canvas.Left="10" Canvas.Top="10"/>
+            <Calendar Canvas.Left="18" Canvas.Top="121" Height="168" Width="184" SelectedDate="{Binding DataPocz}"/>
+            <Button x:Name="button" Command="{Binding OnClick}" Content="Rysuj" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="99" Canvas.Left="61" Canvas.Top="311"/>
+
+
+
+        </Canvas>
+
+    </Grid>
+</UserControl>
